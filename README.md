@@ -3,6 +3,7 @@
 
 ### 待处理问题：
 1.App.vue居然没被main.js引入 render？或者tempalte   why呢？  
+2.vuex的那几个辅助函数   比如action啊什么的    自带的参数是什么，你要搞清楚啊
 
 
 
