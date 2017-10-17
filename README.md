@@ -1,4 +1,15 @@
-##  项目学习    forked  from   <a href="https://github.com/bailicangdu/vue2-happyfri">baillicangdu/vue2-happyfri </a>    
+##  项目学习    forked  from   <a href="https://github.com/bailicangdu/vue2-happyfri">baillicangdu/vue2-happyfri </a>   
+
+
+### 待处理问题：
+1.App.vue居然没被main.js引入 render？或者tempalte   why呢？  
+
+
+
+
+
+
+
 
 vue-happyfri项目代码         总结处理完毕后：上传github吧！！！  ------> webpack官网的实践（代码分割 组件异步加载）
 
