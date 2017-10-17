@@ -3,8 +3,12 @@
 
 ### 待处理问题：
 1.App.vue居然没被main.js引入 render？或者tempalte   why呢？  
+  答：OK，如果main.js中不import，那么index.html中就要有router-view。   或者index.html没有router-view, 那么App.vue中就要import，然后render。
+     或者template也可以。
+  
 2.vuex的那几个辅助函数   比如action啊什么的    自带的参数是什么，你要搞清楚啊
 
+###########################################################################
 
 
 
